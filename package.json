@@ -1,0 +1,16 @@
+{
+  "name": "twitch-going-live-notifier",
+  "version": "1.0.0",
+  "description": "Get text messages when your favorite streamer is going live!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heath Blandford",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "twilio": "^3.33.1"
+  }
+}
